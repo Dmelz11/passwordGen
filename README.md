@@ -1,2 +1,5 @@
 # passwordGen
 this is a repo for the password generator challenge
+This was a challenging project that I must have written the javascript for at least ten times deleted
+and re-did the repo because of merge conflicts after merge conflict. On the bright side  I learned a lot! I also managed to get the password generaator working.I searched the web endlessly for examles of password generators and visited Geeks for Geeks, youtube, DEV Community and I'm sure a couple more for examples. I recieved help from two tutor sessions that helped me get through bugs and clean up code issues by teaching me to use the dev inspect tools better. I also got some TA assistance after class showing me how to access the files a had on my desktop via the terminal. But I finally got the project to work, by reviewing class work involving javascript code and the getter/setter methods and the addButton.addEventListener code.
+<img width="1152" alt="Screenshot 2023-10-06 at 11 23 57 AM" src="https://github.com/Dmelz11/passwordGen/assets/143745882/f1f6fbbe-5df0-4178-8f55-7b0e955c5e9d">
